@@ -3,7 +3,7 @@ from groq import Groq
 
 st.set_page_config(
     page_title="Mental Health Chatbot",
-    page_icon="🧠",
+    page_icon="",
     layout="centered"
 )
 
